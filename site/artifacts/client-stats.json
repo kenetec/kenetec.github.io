@@ -6,8 +6,8 @@
   ],
   "version": "4.42.1",
   "hash": "1ea283ab456128319b9e",
-  "time": 3278,
-  "builtAt": 1586635343424,
+  "time": 4790,
+  "builtAt": 1586638858870,
   "publicPath": "/",
   "outputPath": "/home/kenetec/kenetec.github.io/site/dist",
   "assetsByChunkName": {
@@ -3181,9 +3181,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -3755,9 +3755,9 @@
           "chunks": [
             7
           ],
-          "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "issuerId": 58,
-          "issuerName": "../lib/bootstrapPlugins.js",
+          "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "issuerId": 113,
+          "issuerName": "../lib/bootstrapTemplates.js",
           "issuerPath": [
             {
               "id": 57,
@@ -3765,9 +3765,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             }
           ],
           "failed": false,
@@ -3880,9 +3880,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -4095,9 +4095,9 @@
           "chunks": [
             7
           ],
-          "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "issuerId": 58,
-          "issuerName": "../lib/bootstrapPlugins.js",
+          "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "issuerId": 113,
+          "issuerName": "../lib/bootstrapTemplates.js",
           "issuerPath": [
             {
               "id": 57,
@@ -4105,9 +4105,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             }
           ],
           "failed": false,
@@ -4291,9 +4291,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -4621,9 +4621,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6072,9 +6072,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6143,9 +6143,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6219,9 +6219,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6285,9 +6285,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6356,9 +6356,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6422,9 +6422,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6488,9 +6488,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6564,9 +6564,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6645,9 +6645,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6721,9 +6721,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6868,9 +6868,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -6949,9 +6949,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -7035,9 +7035,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -7111,9 +7111,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -7187,9 +7187,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8935,9 +8935,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -8997,9 +8997,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9059,9 +9059,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9121,9 +9121,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9178,9 +9178,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9240,9 +9240,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9302,9 +9302,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9364,9 +9364,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9426,9 +9426,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9493,9 +9493,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9565,9 +9565,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9637,9 +9637,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9714,9 +9714,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9786,9 +9786,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9863,9 +9863,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -9945,9 +9945,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10022,9 +10022,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10104,9 +10104,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10186,9 +10186,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10263,9 +10263,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10340,9 +10340,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10417,9 +10417,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10484,9 +10484,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10551,9 +10551,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10613,9 +10613,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -10678,9 +10678,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 58,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-              "name": "../lib/bootstrapPlugins.js"
+              "id": 113,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+              "name": "../lib/bootstrapTemplates.js"
             },
             {
               "id": 7,
@@ -13933,9 +13933,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -14507,9 +14507,9 @@
       "chunks": [
         7
       ],
-      "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-      "issuerId": 58,
-      "issuerName": "../lib/bootstrapPlugins.js",
+      "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+      "issuerId": 113,
+      "issuerName": "../lib/bootstrapTemplates.js",
       "issuerPath": [
         {
           "id": 57,
@@ -14517,9 +14517,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         }
       ],
       "failed": false,
@@ -14632,9 +14632,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -14994,9 +14994,9 @@
       "chunks": [
         7
       ],
-      "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-      "issuerId": 58,
-      "issuerName": "../lib/bootstrapPlugins.js",
+      "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+      "issuerId": 113,
+      "issuerName": "../lib/bootstrapTemplates.js",
       "issuerPath": [
         {
           "id": 57,
@@ -15004,9 +15004,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         }
       ],
       "failed": false,
@@ -15190,9 +15190,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -15520,9 +15520,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17265,9 +17265,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17336,9 +17336,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17412,9 +17412,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17478,9 +17478,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17549,9 +17549,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17615,9 +17615,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17681,9 +17681,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17757,9 +17757,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17838,9 +17838,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -17914,9 +17914,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -18061,9 +18061,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -18142,9 +18142,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -18228,9 +18228,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -18304,9 +18304,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -18380,9 +18380,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20569,9 +20569,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20631,9 +20631,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20693,9 +20693,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20755,9 +20755,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20812,9 +20812,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20874,9 +20874,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20936,9 +20936,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -20998,9 +20998,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21060,9 +21060,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21127,9 +21127,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21199,9 +21199,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21271,9 +21271,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21348,9 +21348,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21420,9 +21420,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21497,9 +21497,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21579,9 +21579,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21656,9 +21656,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21738,9 +21738,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21820,9 +21820,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21897,9 +21897,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -21974,9 +21974,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -22051,9 +22051,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -22118,9 +22118,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -22185,9 +22185,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -22247,9 +22247,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,
@@ -22312,9 +22312,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 58,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapPlugins.js",
-          "name": "../lib/bootstrapPlugins.js"
+          "id": 113,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/babel-loader/lib/index.js??ref--4-oneOf-1-0!/home/kenetec/kenetec.github.io/site/node_modules/react-hot-loader/webpack.js!/home/kenetec/kenetec.github.io/site/node_modules/react-static/lib/bootstrapTemplates.js",
+          "name": "../lib/bootstrapTemplates.js"
         },
         {
           "id": 7,

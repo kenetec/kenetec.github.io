@@ -7,8 +7,8 @@
     "build": "react-static build && yarn clean && yarn copy",
     "analyze": "react-static build --analyze",
     "serve": "serve dist -p 3000",
-    "clean": "rm -f ../*.html ../*.js ../*.txt ../*.json ../*.xml ../*.css",
-    "copy": "cp -u dist/*.html dist/*.js dist/*.txt dist/*.json dist/*.xml dist/*.css .."
+    "clean": "find .. -maxdepth 1 -type f,d ! -path '../site' ! -iname '.git' ! -iname '.gitignore' ! -iname 'CNAME' -exec rm -rf '{}' \\;",
+    "copy": "cp -r dist/* .."
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
