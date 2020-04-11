@@ -6,8 +6,8 @@
   ],
   "version": "4.42.1",
   "hash": "1ea283ab456128319b9e",
-  "time": 3821,
-  "builtAt": 1586633406719,
+  "time": 2602,
+  "builtAt": 1586635120365,
   "publicPath": "/",
   "outputPath": "/home/kenetec/kenetec.github.io/site/dist",
   "assetsByChunkName": {
@@ -6133,9 +6133,9 @@
           "chunks": [
             7
           ],
-          "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
-          "issuerId": 79,
-          "issuerName": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
+          "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
+          "issuerId": 28,
+          "issuerName": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
           "issuerPath": [
             {
               "id": 57,
@@ -6153,14 +6153,14 @@
               "name": "../lib/browser/index.js"
             },
             {
-              "id": 78,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/toConsumableArray.js",
-              "name": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/toConsumableArray.js"
+              "id": 8,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/slicedToArray.js",
+              "name": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/slicedToArray.js"
             },
             {
-              "id": 79,
-              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
-              "name": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js"
+              "id": 28,
+              "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
+              "name": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js"
             }
           ],
           "failed": false,
@@ -17326,9 +17326,9 @@
       "chunks": [
         7
       ],
-      "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
-      "issuerId": 79,
-      "issuerName": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
+      "issuer": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
+      "issuerId": 28,
+      "issuerName": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
       "issuerPath": [
         {
           "id": 57,
@@ -17346,14 +17346,14 @@
           "name": "../lib/browser/index.js"
         },
         {
-          "id": 78,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/toConsumableArray.js",
-          "name": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/toConsumableArray.js"
+          "id": 8,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/slicedToArray.js",
+          "name": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/slicedToArray.js"
         },
         {
-          "id": 79,
-          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js",
-          "name": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js"
+          "id": 28,
+          "identifier": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
+          "name": "/home/kenetec/kenetec.github.io/site/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js"
         }
       ],
       "failed": false,

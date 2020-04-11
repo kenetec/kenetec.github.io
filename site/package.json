@@ -4,9 +4,11 @@
   "scripts": {
     "start": "react-static start",
     "stage": "react-static build --staging",
-    "build": "react-static build && cp dist/* ..",
+    "build": "react-static build && yarn clean && yarn copy",
     "analyze": "react-static build --analyze",
-    "serve": "serve dist -p 3000"
+    "serve": "serve dist -p 3000",
+    "clean": "rm -f ../*.html ../*.js ../*.txt ../*.json ../*.xml ../*.css",
+    "copy": "cp -u dist/*.html dist/*.js dist/*.txt dist/*.json dist/*.xml dist/*.css .."
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
