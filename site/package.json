@@ -4,7 +4,7 @@
   "scripts": {
     "start": "react-static start",
     "stage": "react-static build --staging",
-    "build": "react-static build && cp -r dist/* ..",
+    "build": "react-static build && cp dist/* ..",
     "analyze": "react-static build --analyze",
     "serve": "serve dist -p 3000"
   },
